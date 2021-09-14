@@ -5,8 +5,7 @@
 ## I'm a Student!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to draw and play games/touring
-
+- ⚡ Fun fact: I love to play games.
 ### Connect with me:
 
 
