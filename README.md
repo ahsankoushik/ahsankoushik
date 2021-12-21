@@ -11,7 +11,8 @@
 [<img align="left" alt="koushikahsan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="koushikahsan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="md-ahsan-hasib-cse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ahsan_hasib_koushik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="me@imkoushik.me | mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 
 <br />
 
@@ -30,9 +31,9 @@
 
 ---
 
-[facebook]:https://www.facebook.com/koushikahsan
+[facebook]:https://www.facebook.com/koushikahsan 
 
-
+[email]: mailto:me@imkoushik.me
 [twitter]: https://twitter.com/koushikahsan
 
 [instagram]: https://instagram.com/ahsan_hasib_koushik
